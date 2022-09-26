@@ -36,3 +36,11 @@
 DRF를 활용한 게시물관리(CRUD), 글작성에 summernote 활용, 프론트jQuery와 JavaScript로 프론트앤드와 백서버 연동하여 글 보기 작성 수정 삭제 기능구현
 JWT토큰을 사용하여 로그인 회원가입기능
 
+### 2. <a href="https://github.com/Jeong1n/movie-recommend" >Movie-recommend</a>
+*클라이언트들에게 영화 추천을 해주는 사이트
+
+개발 기간 : 2022.06.06 ~ 2022.06.13
+
+#### 담당 기능
+찜하기 기능, BeautifulSoup을 활용한 네이버 영화 크롤링 하여 현재상영작 표시, 회원가입과 로그인
+
